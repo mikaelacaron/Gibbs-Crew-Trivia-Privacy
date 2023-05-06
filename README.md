@@ -13,7 +13,7 @@ Please read this section carefully since it limits the liability of “Gibbs Cre
 "Gibbs Crew Trivia" does not collect any data from the user using a third party service.
 
 ## I have a question about my data
-If you have a question about this privacy and how your data are collected, used and stored when you use Gibbs Crew Trivia, please feel free to email me at mikaelacbusiness at gmail dot com with the subject line “Data Question” and let me know how I can help you.
+If you have a question about this privacy and how your data are collected, used and stored when you use Gibbs Crew Trivia, please feel free to email me at mikaela@icyappstudio.com with the subject line “Data Question” and let me know how I can help you.
 
 ## Changes and Updates
 If “Gibbs Crew Trivia” makes changes to Terms and Conditions or Privacy Policy, these changes will be posted on this page in a timely manner. We reserve the right to modify these terms & conditions and/or privacy policy at any time, so please review it frequently (at least on every app update).
